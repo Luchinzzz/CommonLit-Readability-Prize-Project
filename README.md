@@ -11,11 +11,15 @@ Project for Machine Learning exam
 
 ## :pushpin: Description <a name="description"/>
 
-The interface graphically show the behavior over time and allow user to modify the parameters in real time. 
+The description below is taken from Kaggle competition [page](https://www.kaggle.com/c/commonlitreadabilityprize)
+
+CommonLit, Inc., is a nonprofit education technology organization serving over 20 million teachers and students with free digital reading and writing lessons for grades 3-12. Together with Georgia State University, an R1 public research university in Atlanta, they are challenging Kagglers to improve readability rating methods.
+
+In this competition, you’ll build algorithms to rate the complexity of reading passages for grade 3-12 classroom use. To accomplish this, you'll pair your machine learning skills with a dataset that includes readers from a wide variety of age groups and a large collection of texts taken from various domains. Winning models will be sure to incorporate text cohesion and semantics. 
 
 
 ## :man_technologist: How to use <a name="how-to-use"/>
-`column`
+In order to use this project, you have to follow passages written in [setup](#setup) and then it's recommended to change runtime in Runtime -> Change runtime modifying None in GPU. The project is divided in different section, one for all the step (libraries import, dataset preprocessing ecc...). 
 
 
 
@@ -23,7 +27,9 @@ The interface graphically show the behavior over time and allow user to modify t
 
 ## :gear: Setup <a name="setup"/>
 To run this project, you can use Google Colab and upload the file, here is the [link](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index).
-For this project we have used Google Drive to store dataset, so in order to run it properly you have to download dataset from Kaggle competition at this [page](https://www.kaggle.com/c/commonlitreadabilityprize/data) and then link your own content drive.
+For this project we have used Google Drive to store dataset, so in order to run it properly you have to download dataset from Kaggle competition at this [page](https://www.kaggle.com/c/commonlitreadabilityprize/data) and then link your own content drive. 
+
+We have also used another dataset which is AoA (Age-of-acquisition), you can download it [here](http://crr.ugent.be/archives/806).
 
 ## :computer: Technologies <a name="technologies"/>
 Project is created with:
