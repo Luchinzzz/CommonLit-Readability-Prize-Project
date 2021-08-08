@@ -1,5 +1,9 @@
 # :books: CommonLit-Readability-Prize-Project
-Project for Machine Learning exam 
+Project for Machine Learning exam
+Developed by:
+  - Chiara Luchini
+  - Marco Mecarelli
+  - Alessandro Castellani
 
 
 ##  :pencil: Table of contents
