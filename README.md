@@ -1,6 +1,7 @@
 # :books: CommonLit-Readability-Prize-Project
 Project for Machine Learning exam 
 
+
 ##  :pencil: Table of contents
 * [Description](#description)
 * [How to use](#how-to-use)
@@ -33,7 +34,7 @@ We have also used another dataset which is AoA (Age-of-acquisition), this is the
 
 ## :computer: Technologies <a name="technologies"/>
 Project is created with:
-* Google Colab
+* Google Colab or Anaconda (for a local computation)
 * Python
 * Tensorflow
 * Keras
