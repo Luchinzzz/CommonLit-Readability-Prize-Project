@@ -29,7 +29,7 @@ In order to use this project, you have to follow passages written in [setup](#se
 To run this project, you can use Google Colab and upload the file, here is the [link](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index).
 For this project we have used Google Drive to store dataset, so in order to run it properly you have to download dataset from Kaggle competition at this [page](https://www.kaggle.com/c/commonlitreadabilityprize/data) and then link your own content drive. 
 
-We have also used another dataset which is AoA (Age-of-acquisition), you can download it [here](http://crr.ugent.be/archives/806).
+We have also used another dataset which is AoA (Age-of-acquisition), this is the [website](http://crr.ugent.be/archives/806) and you download it [here](http://crr.ugent.be/papers/AoA_51715_words.zip).
 
 ## :computer: Technologies <a name="technologies"/>
 Project is created with:
